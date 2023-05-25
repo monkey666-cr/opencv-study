@@ -1,0 +1,2 @@
+/usr/bin/ar qc libimg_operation.a CMakeFiles/img_operation.dir/src/img_operation/color_format.cpp.o CMakeFiles/img_operation.dir/src/img_operation/filtering.cpp.o CMakeFiles/img_operation.dir/src/img_operation/shape_adjust.cpp.o CMakeFiles/img_operation.dir/src/img_operation/drawing.cpp.o
+/usr/bin/ranlib libimg_operation.a

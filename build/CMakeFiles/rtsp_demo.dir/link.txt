@@ -1,0 +1,2 @@
+/usr/bin/ar qc librtsp_demo.a CMakeFiles/rtsp_demo.dir/src/rtsp_demo/rtsp_demo.cpp.o
+/usr/bin/ranlib librtsp_demo.a

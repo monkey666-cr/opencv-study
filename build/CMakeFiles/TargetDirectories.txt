@@ -1,0 +1,7 @@
+/home/chenrun/workspace/cv/opencv-study/build/CMakeFiles/opencv-study.dir
+/home/chenrun/workspace/cv/opencv-study/build/CMakeFiles/input_output.dir
+/home/chenrun/workspace/cv/opencv-study/build/CMakeFiles/img_operation.dir
+/home/chenrun/workspace/cv/opencv-study/build/CMakeFiles/rtsp_demo.dir
+/home/chenrun/workspace/cv/opencv-study/build/CMakeFiles/face_detection.dir
+/home/chenrun/workspace/cv/opencv-study/build/CMakeFiles/edit_cache.dir
+/home/chenrun/workspace/cv/opencv-study/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/chenrun/workspace/cv/opencv-study/build",
+  "command": "/usr/bin/g++ -DGFLAGS_IS_A_DLL=0 -I/home/chenrun/workspace/cv/opencv-study/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/input_output.dir/src/input_output/image.cpp.o -c /home/chenrun/workspace/cv/opencv-study/src/input_output/image.cpp",
+  "file": "/home/chenrun/workspace/cv/opencv-study/src/input_output/image.cpp"
+},
+{
+  "directory": "/home/chenrun/workspace/cv/opencv-study/build",
+  "command": "/usr/bin/g++ -DGFLAGS_IS_A_DLL=0 -I/home/chenrun/workspace/cv/opencv-study/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/input_output.dir/src/input_output/video.cpp.o -c /home/chenrun/workspace/cv/opencv-study/src/input_output/video.cpp",
+  "file": "/home/chenrun/workspace/cv/opencv-study/src/input_output/video.cpp"
+},
+{
+  "directory": "/home/chenrun/workspace/cv/opencv-study/build",
+  "command": "/usr/bin/g++ -DGFLAGS_IS_A_DLL=0 -I/home/chenrun/workspace/cv/opencv-study/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/input_output.dir/src/input_output/camera.cpp.o -c /home/chenrun/workspace/cv/opencv-study/src/input_output/camera.cpp",
+  "file": "/home/chenrun/workspace/cv/opencv-study/src/input_output/camera.cpp"
+},
+{
+  "directory": "/home/chenrun/workspace/cv/opencv-study/build",
+  "command": "/usr/bin/g++ -DGFLAGS_IS_A_DLL=0 -I/home/chenrun/workspace/cv/opencv-study/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/img_operation.dir/src/img_operation/color_format.cpp.o -c /home/chenrun/workspace/cv/opencv-study/src/img_operation/color_format.cpp",
+  "file": "/home/chenrun/workspace/cv/opencv-study/src/img_operation/color_format.cpp"
+},
+{
+  "directory": "/home/chenrun/workspace/cv/opencv-study/build",
+  "command": "/usr/bin/g++ -DGFLAGS_IS_A_DLL=0 -I/home/chenrun/workspace/cv/opencv-study/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/img_operation.dir/src/img_operation/filtering.cpp.o -c /home/chenrun/workspace/cv/opencv-study/src/img_operation/filtering.cpp",
+  "file": "/home/chenrun/workspace/cv/opencv-study/src/img_operation/filtering.cpp"
+},
+{
+  "directory": "/home/chenrun/workspace/cv/opencv-study/build",
+  "command": "/usr/bin/g++ -DGFLAGS_IS_A_DLL=0 -I/home/chenrun/workspace/cv/opencv-study/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/img_operation.dir/src/img_operation/shape_adjust.cpp.o -c /home/chenrun/workspace/cv/opencv-study/src/img_operation/shape_adjust.cpp",
+  "file": "/home/chenrun/workspace/cv/opencv-study/src/img_operation/shape_adjust.cpp"
+},
+{
+  "directory": "/home/chenrun/workspace/cv/opencv-study/build",
+  "command": "/usr/bin/g++ -DGFLAGS_IS_A_DLL=0 -I/home/chenrun/workspace/cv/opencv-study/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/img_operation.dir/src/img_operation/drawing.cpp.o -c /home/chenrun/workspace/cv/opencv-study/src/img_operation/drawing.cpp",
+  "file": "/home/chenrun/workspace/cv/opencv-study/src/img_operation/drawing.cpp"
+},
+{
+  "directory": "/home/chenrun/workspace/cv/opencv-study/build",
+  "command": "/usr/bin/g++ -DGFLAGS_IS_A_DLL=0 -I/home/chenrun/workspace/cv/opencv-study/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/rtsp_demo.dir/src/rtsp_demo/rtsp_demo.cpp.o -c /home/chenrun/workspace/cv/opencv-study/src/rtsp_demo/rtsp_demo.cpp",
+  "file": "/home/chenrun/workspace/cv/opencv-study/src/rtsp_demo/rtsp_demo.cpp"
+},
+{
+  "directory": "/home/chenrun/workspace/cv/opencv-study/build",
+  "command": "/usr/bin/g++ -DGFLAGS_IS_A_DLL=0 -I/home/chenrun/workspace/cv/opencv-study/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/face_detection.dir/src/face_detection/face_detection.cpp.o -c /home/chenrun/workspace/cv/opencv-study/src/face_detection/face_detection.cpp",
+  "file": "/home/chenrun/workspace/cv/opencv-study/src/face_detection/face_detection.cpp"
+},
+{
+  "directory": "/home/chenrun/workspace/cv/opencv-study/build",
+  "command": "/usr/bin/g++ -DGFLAGS_IS_A_DLL=0 -I/home/chenrun/workspace/cv/opencv-study/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/opencv-study.dir/src/main.cpp.o -c /home/chenrun/workspace/cv/opencv-study/src/main.cpp",
+  "file": "/home/chenrun/workspace/cv/opencv-study/src/main.cpp"
+}
+]

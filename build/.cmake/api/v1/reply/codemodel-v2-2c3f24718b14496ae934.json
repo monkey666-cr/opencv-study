@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "opencv-study",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "face_detection::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-face_detection-Debug-cea614082bf73e32413a.json",
+					"name" : "face_detection",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "img_operation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-img_operation-Debug-2533b4072c8770b05b10.json",
+					"name" : "img_operation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "input_output::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-input_output-Debug-8bb935f9b96252df2adc.json",
+					"name" : "input_output",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv-study::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv-study-Debug-7b84704527d7495b2f23.json",
+					"name" : "opencv-study",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rtsp_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rtsp_demo-Debug-1289080baf752e2c1fbf.json",
+					"name" : "rtsp_demo",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/chenrun/workspace/cv/opencv-study/build",
+		"source" : "/home/chenrun/workspace/cv/opencv-study"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
